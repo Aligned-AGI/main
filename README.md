@@ -1,7 +1,6 @@
 # main
-##LLM_SYSTEM_PROMPTS
-
-####A collection of system prompts for Large Language Models (LLMs) to help guide specific interactions and behaviors.
+## LLM_SYSTEM_PROMPTS
+#### A collection of system prompts for Large Language Models (LLMs) to help guide specific interactions and behaviors.
 
 ## Introduction
 This repository contains various system prompts designed to influence the behavior and interactions of LLMs like GPT, LLaMA, and others. These prompts can be used for different applications, including business advisory, personality adaptation based on MBTI, and more.
